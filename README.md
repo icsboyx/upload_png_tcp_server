@@ -44,8 +44,19 @@ cat test.png | nc 127.0.0.1 23456 | xclip -selection clipboard
 I'm using `xclip` to copy the returned link to the clipboard
 
 ### Tags
-* v1.0.0: Initial release of the Twitch bot.
-* beta: Beta version of the bot with additional features.
+
+- Rust 
+- TCP server
+- Image upload
+- PNG format
+- Configuration
+- Logging
+- File system
+- Network connections
+
+
+
+You can use these tags to help categorize and organize your project, making it easier for others to find and understand what it does.
 
 ### Contribution
 Contributions are welcome! If you find a bug or want to add new features, feel free to create a pull request.
