@@ -1,0 +1,8 @@
+{
+    "bind_ip_port": "0.0.0.0:23456",
+    "log_level": "info",
+    "data_dir": "data",
+    "protocol": "http",
+    "server_fqdn": "localhost",
+    "url": "/data/"
+}
