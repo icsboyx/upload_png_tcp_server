@@ -1,8 +1,7 @@
 
 # Rust TCP Server for uploading PNG Image
 
-This is a Rust project that implements a TCP server that listens for incoming connections and handles them in a specific way. The server is designed to receive image data from clients and save it to disk (PNG format), while also sending a link to the client that can be used to access the saved image.
-
+This is a Rust project that implements a TCP server that listens for incoming connections and handles them in a specific way. The server is designed to receive image data from clients and save it to disk (PNG format), while also sending a link to the client that can be used to access the saved image (Only a string, web server is not implemented yet).
 
 
 ## Configuration
