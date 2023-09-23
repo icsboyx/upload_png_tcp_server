@@ -43,6 +43,19 @@ cat test.png | nc 127.0.0.1 23456 | xclip -selection clipboard
 ```
 I'm using `xclip` to copy the returned link to the clipboard
 
+### Tags
+* v1.0.0: Initial release of the Twitch bot.
+* beta: Beta version of the bot with additional features.
+
+### Contribution
+Contributions are welcome! If you find a bug or want to add new features, feel free to create a pull request.
+
+## Special Thanks
+
+This project was inspired by the Twitch channel of [Prof. Andrea Pollini](https://www.twitch.tv/profandreapollini) and the supportive Twitch community. Thanks to their encouragement and feedback!
+
+
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for details.
